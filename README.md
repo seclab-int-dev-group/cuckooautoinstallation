@@ -114,18 +114,18 @@ It accepts parameters
 ::
 
 
-┌─────────────────────────────────────────────────────────┐
-│          Cuckoo Sandbox AutoInstall Script 0.3          │
-│          =====================================          │
-│                                                         │
-│        Based on Ubuntu Release: $UBUNTU-VERSION      │
-│                                                         │
-│     Patrick Vanreck - <patrick.vanreckl@hotmail.com>    │
-│     Stefan Mettler - <https://www.cryptron.ch/>         │
-│                                                         │
-│              SECLAB INIT Security - 2017                │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+    ┌─────────────────────────────────────────────────────────┐
+    │          Cuckoo Sandbox AutoInstall Script 0.3          │
+    │          =====================================          │
+    │                                                         │
+    │        Based on Ubuntu Release: $UBUNTU-VERSION         │
+    │                                                         │
+    │     Patrick Vanreck - <patrick.vanreckl@hotmail.com>    │
+    │     Stefan Mettler - <https://www.cryptron.ch/>         │
+    │                                                         │
+    │              SECLAB INIT Security - 2017                │
+    │                                                         │
+    └─────────────────────────────────────────────────────────┘
     Usage: cuckooautoinstall.bash [--verbose|-v] [--help|-h] [--upgrade|-u]
 
         --verbose   Print output to stdout instead of temp logfile
